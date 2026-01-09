@@ -23,7 +23,7 @@ repository               : "/propose0309/propose0309-art.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/me.jpg"
+  avatar           : "images/me.jpg"
   name             : "Seongyong Kim"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Semiconductor Architect bridging Device Physics and EDA"
