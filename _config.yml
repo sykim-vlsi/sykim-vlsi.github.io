@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "front_of_forsythia.png"
   name             : "Seongyong Kim"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Semiconductor Architect bridging Device Physics and EDA"
