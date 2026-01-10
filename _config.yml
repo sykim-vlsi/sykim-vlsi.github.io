@@ -26,7 +26,7 @@ author:
   avatar           : "me.jpg"
   name             : "Seongyong Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Aspiring Semiconductor Architect bridging Device Physics and EDA"
+  bio              : "Master Candidate of i3d-vlsi Lab. in KNU"
   location         : "Daegu, Republic of Korea"
   employer         : "Kyungpook National University"
   uri              : # URL
@@ -151,12 +151,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - label: "My Study Blog"
-      url: "https://blog.naver.com/myrrhh_" # 성용님의 실제 블로그 주소 입력
-      icon: "fas fa-fw fa-link" # 아이콘 모양 (링크 모양)
-    - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/seong-yong-kim-4b59182b9/"
-      icon: "fab fa-fw fa-linkedin"
+
 
 # Analytics
 analytics:
