@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "me.jpg"
   name             : "Seongyong Kim"
-  pronouns         : # example: "she/her"  
-  bio              : "Master Candidate of i3d-vlsi Lab. in KNU"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Master Candidate of I3D-VLSI Lab. in Kyungpook National University"
   location         : "Daegu, Republic of Korea"
   employer         : "Kyungpook National University"
-  uri              : # URL
+  uri              : "https://en.knu.ac.kr/main/main.htm" # URL
   email            : "s.y.kim@knu.ac.kr" 
 
   # Academic websites
